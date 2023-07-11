@@ -1,0 +1,3 @@
+[submodule "parkar-merchant"]
+	path = parkar-merchant
+	url = https://github.com/lancer2672/parkar-merchant.git
