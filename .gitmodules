@@ -4,3 +4,6 @@
 [submodule "parkar-app"]
 	path = parkar-app
 	url = https://github.com/ngxuantai/parkar-app.git
+[submodule "parkar-merchant-app"]
+	path = parkar-merchant-app
+	url = https://github.com/ngxuantai/parkar-merchant-app.git
