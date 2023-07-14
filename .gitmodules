@@ -7,3 +7,6 @@
 [submodule "parkar-merchant-app"]
 	path = parkar-merchant-app
 	url = https://github.com/ngxuantai/parkar-merchant-app.git
+[submodule "parkar-server"]
+	path = parkar-server
+	url = https://github.com/lancer2672/Parka-Maintaince.git
